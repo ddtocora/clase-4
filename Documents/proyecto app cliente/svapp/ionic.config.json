@@ -1,0 +1,7 @@
+{
+  "name": "svapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
